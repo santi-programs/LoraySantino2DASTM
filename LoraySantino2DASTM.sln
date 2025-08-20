@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unidad 1", "Unidad 1", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tp01", "tp01", "{60E8F1F9-00A8-4BFA-8F64-9083225BA09F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{F77CA8EE-D252-4F54-B29B-7B89F59FEAD9}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{60E8F1F9-00A8-4BFA-8F64-9083225BA09F} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{F77CA8EE-D252-4F54-B29B-7B89F59FEAD9} = {60E8F1F9-00A8-4BFA-8F64-9083225BA09F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34FD19A9-9249-4133-ABA6-FFD56ED7EEF0}
+	EndGlobalSection
+EndGlobal
